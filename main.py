@@ -1,5 +1,6 @@
 import sympy
-from sympy import *
+from sympy import diff
+fr
 x = Symbol('x')
 #user enters equation
 #ogeq means original equation
