@@ -4,7 +4,7 @@ from sympy import Symbol
 x = Symbol('x')
 #user enters equation
 #ogeq means original equation
-ogeq = eval(input("enter equation: f =  ")) #need to change eval. input does not work
+ogeq = eval(input("enter equation: f =  "))
 f = ogeq
 #user enters how many derivtives of the equations
 #diffnumb means the derivatie number
